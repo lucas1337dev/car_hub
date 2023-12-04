@@ -2,6 +2,8 @@
 
 <p></p>Welcome to Car Hub, a web application built with React, Next.js, TypeScript, and Tailwind CSS. Car Hub is designed to help users explore and discover information about various cars, providing a seamless user experience with features such as API calls, search functionality, filtering capabilities, and server-side rendering.</p> 
 
+<img src="https://github.com/lucas1337dev/car_hub/blob/main/public/localhost_3000_.png" alt="Project img" />
+
 <h2>Features:</h2> 
 <ul> 
   <li><h3>React and Next.js:</h3> Car Hub leverages the power of React for building interactive user interfaces and Next.js for server-side rendering, enabling faster page loads and a smoother user experience.</li>
