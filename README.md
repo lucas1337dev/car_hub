@@ -4,7 +4,8 @@
 
 <img src="https://github.com/lucas1337dev/car_hub/blob/main/public/localhost_3000_.png" alt="Project img" />
 
-<a href="https://car-hub-bice.vercel.app/">Live Project</a>
+<h2>Live Project</h2>
+<a href="https://car-hub-bice.vercel.app/">Click Here</a>
 
 <h2>Features:</h2> 
 <ul> 
