@@ -1,5 +1,7 @@
 <h1>Car Hub</h1> 
 
+<a href="https://car-hub-bice.vercel.app/">Live Project</a>
+
 <p></p>Welcome to Car Hub, a web application built with React, Next.js, TypeScript, and Tailwind CSS. Car Hub is designed to help users explore and discover information about various cars, providing a seamless user experience with features such as API calls, search functionality, filtering capabilities, and server-side rendering.</p> 
 
 <img src="https://github.com/lucas1337dev/car_hub/blob/main/public/localhost_3000_.png" alt="Project img" />
